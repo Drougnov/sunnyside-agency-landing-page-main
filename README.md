@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
 
 Here is the solution site url-
-https://drougnov.github.io/sunnyside-agency-landing-page-master/
+https://drougnov.github.io/sunnyside-agency-landing-page-main/
 
 ## Built with
 
